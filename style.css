@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    /* font-weight: 700; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#about{
+    text-size-adjust: 30 ;
+}
+
+
+ul{
+    list-style-type: none;
+
+}
+
+#leftbox {
+    float:left; 
+    /* background:Red; */
+    width:25%;
+    height:auto;
+}
+#middlebox{
+    float:left; 
+    /* background:Green; */
+    width: 75%;
+    height:auto;
+}
+
+body{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgba(243, 229, 209, 0.747);
+  }
+
+  .wrapper {
+    display: block;
+  }
