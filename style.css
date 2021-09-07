@@ -45,10 +45,12 @@ body{
       }
     #leftbox {
         width: 100%;
+        display: flex;
     }
 
     #middlebox {
         width: 100%;
+        display: flex;
     }
 
   }
