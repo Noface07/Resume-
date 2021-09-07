@@ -40,7 +40,8 @@ body{
   @media only screen and (max-width: 600px) {
     body {
       background-color: lightblue;
-      margin: auto;
+      margin-left: 10px;
+    margin-right: 10px;
       }
     #leftbox {
         width: 100%;
